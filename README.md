@@ -4,12 +4,11 @@
 
 You should focus on voting rewards data for epoch 598 (assuming the current epoch is 599).
 Your script must calculate and output the following statistics:
-
-    * The total amount of voting rewards distributed.
-    * The maximum voting reward received by a single validator.
-    * The minimum voting reward received by a single validator.
-    * The mean (average) voting reward amount.
-    * The median voting reward amount.
+ - The total amount of voting rewards distributed.
+ - The maximum voting reward received by a single validator.
+ - The minimum voting reward received by a single validator.
+ - The mean (average) voting reward amount.
+ - The median voting reward amount.
 
 Identify the validator (vote account) that received the largest absolute commission in SOL. This refers to the total commission amount, not the commission rate.
 
